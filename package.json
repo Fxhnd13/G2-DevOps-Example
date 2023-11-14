@@ -1,0 +1,23 @@
+{
+  "name": "g2-devops-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fxhnd13/G2-DevOps-Example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fxhnd13/G2-DevOps-Example/issues"
+  },
+  "homepage": "https://github.com/Fxhnd13/G2-DevOps-Example#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
